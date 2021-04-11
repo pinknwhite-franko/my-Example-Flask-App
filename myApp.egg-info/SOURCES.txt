@@ -1,0 +1,11 @@
+README.txt
+setup.py
+myApp/__init__.py
+myApp/app.py
+myApp/my_python_script.py
+myApp/setup.py
+myApp.egg-info/PKG-INFO
+myApp.egg-info/SOURCES.txt
+myApp.egg-info/dependency_links.txt
+myApp.egg-info/requires.txt
+myApp.egg-info/top_level.txt

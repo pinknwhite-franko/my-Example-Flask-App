@@ -1,0 +1,7 @@
+pandas==1.2.3
+numpy==1.20.2
+flask
+flask_restful
+datetime
+pathlib
+
